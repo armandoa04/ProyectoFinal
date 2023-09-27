@@ -1,5 +1,5 @@
-num1=int(input("ingrese primer numero:"))
-num2=int(input("ingrese segundo numero:"))
+num1=int(input(" primer numero:"))
+num2=int(input("segundo numero:"))
 suma=num1+num2
 producto=num1*num2
 print("La suma de los dos numeros es")
